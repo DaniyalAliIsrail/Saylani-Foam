@@ -1,0 +1,27 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+a {
+
+    text-decoration: double;
+
+}
+
+.okay {
+    height: 50vh;
+
+}
+
+.tt {
+    text-align: center;
+}
+
+.center {
+    margin-left: 30%;
+}
+
+header {
+    margin-top: -170px;
+}
